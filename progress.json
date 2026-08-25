@@ -1,28 +1,28 @@
 [
   {
-    "exercise_name": "stage-fright",
-    "started_at": 1787630548.794044,
-    "completed_at": 1787630551.354036,
+    "exercise_name": "clone-repo",
+    "started_at": 1787640127.728932,
+    "completed_at": 1787640131.405966,
     "comments": [
-      "Great work! You have successfully checked in all the actors!"
+      "Great work creating a clone of a fork from Github!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "under-control",
-    "started_at": 1787630740.977916,
-    "completed_at": 1787630743.411003,
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787640452.58054,
+    "completed_at": 1787640454.506875,
     "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
+      "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "undo-init",
-    "started_at": 1787630807.543112,
-    "completed_at": 1787630809.980823,
+    "exercise_name": "fork-repo",
+    "started_at": 1787639790.822701,
+    "completed_at": 1787639794.40889,
     "comments": [
-      "You have successfully undone the init operation!"
+      "Great work creating a fork with Github!"
     ],
     "status": "Completed"
   },
@@ -56,11 +56,29 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "staging-intervention",
-    "started_at": 1787632189.977062,
-    "completed_at": 1787632192.421986,
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787638645.866611,
+    "completed_at": 1787638654.597988,
     "comments": [
-      "Great work! You have successfully fixed the attendance system!"
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787638708.43022,
+    "completed_at": 1787638715.534014,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787635726.695361,
+    "completed_at": 1787635729.224774,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
   },
@@ -69,6 +87,15 @@
     "started_at": 1787633907.335021,
     "completed_at": 1787633909.952576,
     "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787636178.646807,
+    "completed_at": 1787636182.138475,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
     "status": "Completed"
   },
   {
@@ -108,65 +135,47 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "link-me",
-    "started_at": 1787635726.695361,
-    "completed_at": 1787635729.224774,
+    "exercise_name": "stage-fright",
+    "started_at": 1787630548.794044,
+    "completed_at": 1787630551.354036,
     "comments": [
-      "Great work with using git remote to add an upstream remote!"
+      "Great work! You have successfully checked in all the actors!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "push-over",
-    "started_at": 1787636178.646807,
-    "completed_at": 1787636182.138475,
+    "exercise_name": "staging-intervention",
+    "started_at": 1787632189.977062,
+    "completed_at": 1787632192.421986,
     "comments": [
-      "Great work pushing changes to the remote!"
+      "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787638645.866611,
-    "completed_at": 1787638654.597988,
+    "exercise_name": "under-control",
+    "started_at": 1787630740.977916,
+    "completed_at": 1787630743.411003,
     "comments": [
-      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787638708.43022,
-    "completed_at": 1787638715.534014,
-    "comments": [
-      "Great work using .gitignore!"
+      "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "fork-repo",
-    "started_at": 1787639790.822701,
-    "completed_at": 1787639794.40889,
+    "exercise_name": "undo-init",
+    "started_at": 1787630807.543112,
+    "completed_at": 1787630809.980823,
     "comments": [
-      "Great work creating a fork with Github!"
+      "You have successfully undone the init operation!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "clone-repo",
-    "started_at": 1787640127.728932,
-    "completed_at": 1787640131.405966,
+    "exercise_name": "view-commits",
+    "started_at": 1787641511.959678,
+    "completed_at": 1787641513.916103,
     "comments": [
-      "Great work creating a clone of a fork from Github!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1787640452.58054,
-    "completed_at": 1787640454.506875,
-    "comments": [
-      "Great work fetching and pulling different upstreams!"
+      "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
   }
