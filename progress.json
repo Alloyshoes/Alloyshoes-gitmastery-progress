@@ -196,5 +196,14 @@
       "Great work using git tag to annotate various commits in the repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787642574.398165,
+    "completed_at": 1787642576.593489,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
   }
 ]
