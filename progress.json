@@ -35,5 +35,15 @@
       "Grocery list items removed from shopping-list.txt are not committed."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787631404.681121,
+    "completed_at": 1787631409.297691,
+    "comments": [
+      "New grocery list items added to shopping-list.txt are not committed.",
+      "Grocery list items removed from shopping-list.txt are not committed."
+    ],
+    "status": "Incomplete"
   }
 ]
