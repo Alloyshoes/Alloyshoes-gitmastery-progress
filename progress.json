@@ -495,5 +495,14 @@
       "Missing branch 'others'."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1787731951.415232,
+    "completed_at": 1787731955.324833,
+    "comments": [
+      "The merge has not been undone properly."
+    ],
+    "status": "Incomplete"
   }
 ]
